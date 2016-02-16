@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./detanagraeorvms00unkngoog_0051.png"; bbox 0 0 3109 5375; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 355 26 1621 74">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 355 26 1621 74">
+     <span class='ocr_line' id='line_1_1' title="bbox 355 26 1621 74; baseline 0.004 -6"><span class='ocrx_word' id='word_1_1' title='bbox 355 26 633 70; x_wconf 69' lang='lat' dir='ltr'>Auvuflm</span> <span class='ocrx_word' id='word_1_2' title='bbox 671 28 1065 73; x_wconf 62' lang='lat' dir='ltr'>vinae-{nvo</span> <span class='ocrx_word' id='word_1_3' title='bbox 1102 29 1186 73; x_wconf 70' lang='grc' dir='ltr'>ΔΟ</span> <span class='ocrx_word' id='word_1_4' title='bbox 1220 30 1621 74; x_wconf 60' lang='grc' dir='ltr'><strong>ΜΙΒΒΞΛΙΝΠ</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 59 102 1908 2863">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 59 102 1908 2863">
+     <span class='ocr_line' id='line_1_2' title="bbox 59 102 1908 2863; baseline 0 0"><span class='ocrx_word' id='word_1_5' title='bbox 59 102 1908 2863; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 2131 0 2983 2">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 2131 0 2983 2">
+     <span class='ocr_line' id='line_1_3' title="bbox 2131 0 2983 2; baseline 0 0"><span class='ocrx_word' id='word_1_6' title='bbox 2131 0 2983 2; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

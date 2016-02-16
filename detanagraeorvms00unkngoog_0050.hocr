@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./detanagraeorvms00unkngoog_0050.png"; bbox 0 0 3109 5375; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 644 282 2474 3876">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 644 282 2474 3876">
+     <span class='ocr_line' id='line_1_1' title="bbox 644 282 2474 3876; baseline 0 0"><span class='ocrx_word' id='word_1_1' title='bbox 644 282 2474 3876; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 2073 5045 2697 5170">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 2073 5045 2697 5170">
+     <span class='ocr_line' id='line_1_2' title="bbox 2073 5045 2697 5170; baseline 0 -38"><span class='ocrx_word' id='word_1_2' title='bbox 2073 5096 2252 5142; x_wconf 70' lang='lat' dir='ltr'>Diqitized</span> <span class='ocrx_word' id='word_1_3' title='bbox 2271 5096 2316 5142; x_wconf 68' lang='lat' dir='ltr'>by</span> <span class='ocrx_word' id='word_1_4' title='bbox 2331 5045 2697 5170; x_wconf 71' lang='lat' dir='ltr'>GOOgle</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
